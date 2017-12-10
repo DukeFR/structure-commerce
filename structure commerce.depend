@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511864140 source:d:\programmes\structure commerce\main.c
+	<stdio.h>
+	<stdlib.h>
+	"article.h"
+
+1511864510 source:d:\programmes\structure commerce\article.c
+	<stdio.h>
+	"article.h"
+
+1511863874 d:\programmes\structure commerce\article.h
+
